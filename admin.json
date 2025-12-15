@@ -1,0 +1,17 @@
+{
+  "form_submissions": [],
+  "cohorts": [
+    {
+      "id": "aug-2025",
+      "name": "August 2025",
+      "status": "filling_fast",
+      "seats_remaining": 10
+    },
+    {
+      "id": "oct-2025",
+      "name": "October 2025",
+      "status": "open",
+      "seats_remaining": 50
+    }
+  ]
+}
