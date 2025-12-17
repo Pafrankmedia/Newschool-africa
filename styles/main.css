@@ -177,14 +177,6 @@ img {
     width: 100px;
 }
 
-/*
-.logo {
-    font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: 1.5rem;
-    color: var(--color-white);
-}
-*/
 .nav-links {
     display: flex;
     gap: var(--spacing-md);
@@ -421,13 +413,6 @@ img {
     flex: 1;
 }
 
-/*
-.team-photos {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: var(--spacing-md);
-}
-*/
 .team-photo {
     width: 100px;
     height: 100px;
